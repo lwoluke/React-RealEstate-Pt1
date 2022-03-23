@@ -8,7 +8,7 @@ To setup your computer, follow these steps:
 ```
 git clone "https://github.com/lwoluke/React-RealEstate-Pt1.git"
 ```
-
+For the best experience, use VS Code.
 #### Blog post I made on the creation of this project: https://medium.com/p/47f47fd7d678/edit
 
 ### Stay tuned for Part 2 
