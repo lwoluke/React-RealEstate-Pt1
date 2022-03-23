@@ -1,5 +1,5 @@
 # Real Estate Website Part 1
-Using ReactJS
+Using ReactJS and styled components
 ## Setup
 To setup your computer, follow these steps:
 
