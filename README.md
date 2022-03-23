@@ -8,6 +8,10 @@ To setup your computer, follow these steps:
 ```
 git clone "https://github.com/lwoluke/React-RealEstate-Pt1.git"
 ```
+3) If unable to run locally, create .env file and paste the following line:
+```
+SKIP_PREFLIGHT_CHECK=true
+```
 For the best experience, use VS Code.
 #### Blog post I made on the creation of this project: https://medium.com/p/47f47fd7d678/edit
 
