@@ -11,4 +11,4 @@ git clone "https://github.com/lwoluke/React-RealEstate-Pt1.git"
 
 #### Blog post I made on the creation of this project: https://medium.com/p/47f47fd7d678/edit
 
-### Stay tuned for Part 2, where I will create the complete site using React
+### Stay tuned for Part 2 
