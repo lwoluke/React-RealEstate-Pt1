@@ -4,7 +4,7 @@ export const InfoData = {
     heading: "Explore Upstate NY's most beautiful homes",
     paragraphOne: 'UPST8 EMPIRE is a family run real estate company,' +
     ' delivering proven results for buyers, sellers, and developers. Founded in 1915, our business' +
-    'has endured the most significant hardships, and remains as the top competitor in Upstate New York',
+    ' has endured the most significant hardships, and remains as the top competitor in Upstate New York',
     paragraphTwo: ' We revolutionize the traditional brokerage model by innovating through media ' +
     ' and content creation. Want to join in on the magic? Contact us today!',
     buttonLabel: 'View Homes',
