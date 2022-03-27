@@ -8,7 +8,12 @@ To setup your computer, follow these steps:
 ```
 git clone "https://github.com/lwoluke/React-RealEstate-Pt1.git"
 ```
-3) If unable to run on local development server, create a .env file and paste the following line:
+3) Enter the following into the terminal:
+```
+npm rebuild
+npm install
+```
+5) If unable to run on local development server, create a .env file and paste the following line:
 ```
 SKIP_PREFLIGHT_CHECK=true
 ```
