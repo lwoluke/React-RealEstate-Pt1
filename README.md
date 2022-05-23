@@ -19,6 +19,6 @@ npm update
 SKIP_PREFLIGHT_CHECK=true
 ```
 For the best experience, use VS Code.
-#### Blog post I made on the creation of this project: https://medium.com/@luke_o/reactjs-real-estate-website-part-1-47f47fd7d678
+### Blog post I made on the creation of this project: https://medium.com/@luke_o/reactjs-real-estate-website-part-1-47f47fd7d678
 
 ### Stay tuned for Part 2 
